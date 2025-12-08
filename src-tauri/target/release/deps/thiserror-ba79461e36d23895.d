@@ -1,0 +1,14 @@
+/Users/ruichen/Desktop/ai编程练习/个人打卡习惯追踪器/src-tauri/target/release/deps/thiserror-ba79461e36d23895.d: /Users/ruichen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/lib.rs /Users/ruichen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/aserror.rs /Users/ruichen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/display.rs /Users/ruichen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/var.rs /Users/ruichen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/private.rs /Users/ruichen/Desktop/ai编程练习/个人打卡习惯追踪器/src-tauri/target/release/build/thiserror-2208294d3901ba2a/out/private.rs
+
+/Users/ruichen/Desktop/ai编程练习/个人打卡习惯追踪器/src-tauri/target/release/deps/libthiserror-ba79461e36d23895.rlib: /Users/ruichen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/lib.rs /Users/ruichen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/aserror.rs /Users/ruichen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/display.rs /Users/ruichen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/var.rs /Users/ruichen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/private.rs /Users/ruichen/Desktop/ai编程练习/个人打卡习惯追踪器/src-tauri/target/release/build/thiserror-2208294d3901ba2a/out/private.rs
+
+/Users/ruichen/Desktop/ai编程练习/个人打卡习惯追踪器/src-tauri/target/release/deps/libthiserror-ba79461e36d23895.rmeta: /Users/ruichen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/lib.rs /Users/ruichen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/aserror.rs /Users/ruichen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/display.rs /Users/ruichen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/var.rs /Users/ruichen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/private.rs /Users/ruichen/Desktop/ai编程练习/个人打卡习惯追踪器/src-tauri/target/release/build/thiserror-2208294d3901ba2a/out/private.rs
+
+/Users/ruichen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/lib.rs:
+/Users/ruichen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/aserror.rs:
+/Users/ruichen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/display.rs:
+/Users/ruichen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/var.rs:
+/Users/ruichen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/private.rs:
+/Users/ruichen/Desktop/ai编程练习/个人打卡习惯追踪器/src-tauri/target/release/build/thiserror-2208294d3901ba2a/out/private.rs:
+
+# env-dep:OUT_DIR=/Users/ruichen/Desktop/ai编程练习/个人打卡习惯追踪器/src-tauri/target/release/build/thiserror-2208294d3901ba2a/out

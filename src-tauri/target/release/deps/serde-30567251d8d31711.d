@@ -1,0 +1,14 @@
+/Users/ruichen/Desktop/ai编程练习/个人打卡习惯追踪器/src-tauri/target/release/deps/serde-30567251d8d31711.d: /Users/ruichen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/ruichen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/ruichen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/ruichen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/ruichen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/ruichen/Desktop/ai编程练习/个人打卡习惯追踪器/src-tauri/target/release/build/serde-1ee39b6cb5cbf1a4/out/private.rs
+
+/Users/ruichen/Desktop/ai编程练习/个人打卡习惯追踪器/src-tauri/target/release/deps/libserde-30567251d8d31711.rlib: /Users/ruichen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/ruichen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/ruichen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/ruichen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/ruichen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/ruichen/Desktop/ai编程练习/个人打卡习惯追踪器/src-tauri/target/release/build/serde-1ee39b6cb5cbf1a4/out/private.rs
+
+/Users/ruichen/Desktop/ai编程练习/个人打卡习惯追踪器/src-tauri/target/release/deps/libserde-30567251d8d31711.rmeta: /Users/ruichen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/ruichen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/ruichen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/ruichen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/ruichen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/ruichen/Desktop/ai编程练习/个人打卡习惯追踪器/src-tauri/target/release/build/serde-1ee39b6cb5cbf1a4/out/private.rs
+
+/Users/ruichen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/Users/ruichen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/Users/ruichen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/Users/ruichen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/Users/ruichen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/Users/ruichen/Desktop/ai编程练习/个人打卡习惯追踪器/src-tauri/target/release/build/serde-1ee39b6cb5cbf1a4/out/private.rs:
+
+# env-dep:OUT_DIR=/Users/ruichen/Desktop/ai编程练习/个人打卡习惯追踪器/src-tauri/target/release/build/serde-1ee39b6cb5cbf1a4/out

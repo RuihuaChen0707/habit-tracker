@@ -56,6 +56,7 @@ export class LocalStorage {
     return {
       projects: this.getProjects(),
       checkins: this.getCheckins(),
+      logs: [],
     };
   }
 

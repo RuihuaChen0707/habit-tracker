@@ -32,24 +32,25 @@ const toastConfig = {
 };
 
 export function Toast({ message, type = 'success', isVisible, onClose, duration = 3000 }: ToastProps) {
-  const [shouldShow, setShouldShow] = React.useState(isVisible);
+  const timerRef = React.useRef<NodeJS.Timeout | null>(null);
 
   React.useEffect(() => {
-    setShouldShow(isVisible);
-  }, [isVisible]);
-
-  React.useEffect(() => {
-    if (shouldShow && duration > 0) {
-      const timer = setTimeout(() => {
-        setShouldShow(false);
+    if (isVisible && duration > 0) {
+      timerRef.current = setTimeout(() => {
         onClose();
       }, duration);
-
-      return () => clearTimeout(timer);
+    } else if (!isVisible && timerRef.current) {
+      clearTimeout(timerRef.current);
     }
-  }, [shouldShow, duration, onClose]);
 
-  if (!shouldShow) return null;
+    return () => {
+      if (timerRef.current) {
+        clearTimeout(timerRef.current);
+      }
+    };
+  }, [isVisible, duration, onClose]);
+
+  if (!isVisible) return null;
 
   const config = toastConfig[type];
   const Icon = config.icon;
@@ -63,7 +64,6 @@ export function Toast({ message, type = 'success', isVisible, onClose, duration 
         <p className="text-sm font-medium">{message}</p>
         <button
           onClick={() => {
-            setShouldShow(false);
             onClose();
           }}
           className="ml-auto flex-shrink-0 p-1 rounded-md hover:bg-black/10 transition-colors"

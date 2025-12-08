@@ -1,0 +1,11 @@
+/Users/ruichen/Desktop/ai编程练习/个人打卡习惯追踪器/src-tauri/target/release/deps/tauri_runtime-250a4cb82a5d88fa.d: /Users/ruichen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tauri-runtime-2.9.2/src/lib.rs /Users/ruichen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tauri-runtime-2.9.2/src/dpi.rs /Users/ruichen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tauri-runtime-2.9.2/src/monitor.rs /Users/ruichen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tauri-runtime-2.9.2/src/webview.rs /Users/ruichen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tauri-runtime-2.9.2/src/window.rs
+
+/Users/ruichen/Desktop/ai编程练习/个人打卡习惯追踪器/src-tauri/target/release/deps/libtauri_runtime-250a4cb82a5d88fa.rlib: /Users/ruichen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tauri-runtime-2.9.2/src/lib.rs /Users/ruichen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tauri-runtime-2.9.2/src/dpi.rs /Users/ruichen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tauri-runtime-2.9.2/src/monitor.rs /Users/ruichen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tauri-runtime-2.9.2/src/webview.rs /Users/ruichen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tauri-runtime-2.9.2/src/window.rs
+
+/Users/ruichen/Desktop/ai编程练习/个人打卡习惯追踪器/src-tauri/target/release/deps/libtauri_runtime-250a4cb82a5d88fa.rmeta: /Users/ruichen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tauri-runtime-2.9.2/src/lib.rs /Users/ruichen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tauri-runtime-2.9.2/src/dpi.rs /Users/ruichen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tauri-runtime-2.9.2/src/monitor.rs /Users/ruichen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tauri-runtime-2.9.2/src/webview.rs /Users/ruichen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tauri-runtime-2.9.2/src/window.rs
+
+/Users/ruichen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tauri-runtime-2.9.2/src/lib.rs:
+/Users/ruichen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tauri-runtime-2.9.2/src/dpi.rs:
+/Users/ruichen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tauri-runtime-2.9.2/src/monitor.rs:
+/Users/ruichen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tauri-runtime-2.9.2/src/webview.rs:
+/Users/ruichen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tauri-runtime-2.9.2/src/window.rs:
