@@ -3,22 +3,20 @@
 
 use tauri::Manager;
 
-#[derive(Clone, serde::Serialize)]
-struct Payload {
-  args: Vec<String>,
-  cmd: String,
-}
-
 fn main() {
     tauri::Builder::default()
         .plugin(tauri_plugin_shell::init())
         .invoke_handler(tauri::generate_handler![get_app_version])
         .setup(|app| {
             // 获取主窗口
-            let window = app.get_webview_window("main").unwrap();
-
-            // 设置窗口标题和图标
-            window.set_title("习惯追踪器").unwrap();
+            if let Some(window) = app.get_webview_window("main") {
+                // 设置窗口标题和图标
+                if let Err(e) = window.set_title("习惯追踪器") {
+                    eprintln!("警告: 无法设置窗口标题: {}", e);
+                }
+            } else {
+                eprintln!("警告: 无法获取主窗口");
+            }
 
             Ok(())
         })
